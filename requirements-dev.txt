@@ -72,7 +72,7 @@ xlsxwriter
 xlwt
 odfpy
 fastparquet>=0.4.0
-pyarrow>2.0.1
+pyarrow>14.0.1
 python-snappy
 tables>=3.6.1
 s3fs>=0.4.0

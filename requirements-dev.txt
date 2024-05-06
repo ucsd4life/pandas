@@ -86,3 +86,4 @@ pyreadstat
 tabulate>=0.8.3
 natsort
 setuptools>=51.0.0
+aiohttp>=3.9.4 # not directly required, pinned by Snyk to avoid a vulnerability

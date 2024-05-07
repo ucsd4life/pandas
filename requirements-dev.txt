@@ -86,3 +86,4 @@ pyreadstat
 tabulate>=0.8.3
 natsort
 setuptools>=51.0.0
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability

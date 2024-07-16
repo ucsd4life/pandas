@@ -85,4 +85,4 @@ cftime
 pyreadstat
 tabulate>=0.8.3
 natsort
-setuptools>=51.0.0
+setuptools>=70.0.0

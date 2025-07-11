@@ -86,3 +86,5 @@ pyreadstat
 tabulate>=0.8.3
 natsort
 setuptools>=51.0.0
+protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability

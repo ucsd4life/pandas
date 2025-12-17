@@ -86,3 +86,5 @@ pyreadstat
 tabulate>=0.8.3
 natsort
 setuptools>=51.0.0
+fonttools>=4.61.0 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.5.3 # not directly required, pinned by Snyk to avoid a vulnerability
